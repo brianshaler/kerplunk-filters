@@ -1,6 +1,6 @@
 # kerplunk-filters
 
-[Kerplunk](https://github.com/brianshaler/kerplunk) plugin. 
+[Kerplunk](https://github.com/brianshaler/kerplunk) plugin. Basic filter Condition/Action framework, allowing plugins to provide conditions to filter ActivityItems on, and actions to take if all/any of the conditions are met.
 
 [![Build Status](https://travis-ci.org/brianshaler/kerplunk-filters.svg)](https://travis-ci.org/brianshaler/kerplunk-filters)
 [![npm version](https://img.shields.io/npm/v/kerplunk-filters.svg)](https://www.npmjs.com/package/kerplunk-filters)
