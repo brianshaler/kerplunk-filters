@@ -2,7 +2,7 @@
   "name": "kerplunk-filters",
   "displayName": "Filters",
   "description": "Basic filter Condition/Action framework, allowing plugins to provide conditions to filter ActivityItems on, and actions to take if all/any of the conditions are met.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "kerplunk": {
     "recommended": [
       "kerplunk-filters-basictext",
